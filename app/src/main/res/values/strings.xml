@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">projectone</string>
+    <string name="welcome">Welcome</string>
+    <string name="dpthead">Dpt. Head</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">student</string>
+    <string name="storemanager">Store Manager</string>
+    <string name="dptActivity"> This is dpt Activity</string>
+    <string name="teacherActivity"> This is teacher Activity</string>
+    <string name="studentActivity"> This is student Activity</string>
+    <string name="store"> This is store Activity</string>
+    <string name="loginbutton"> Login</string>
+    <string name="username"> username</string>
+    <string name="typeusername"> Type your name</string>
+    <string name="password">Password</string>
+    <string name="typepassword">Type your password</string>
+    <string name="forgotpassword">Forgot password?</string>
+    <string name="newactivity">This is dpt new activity</string>
+    <string name="st_username">Enter your name</string>
+    <string name="enterpassword">Enter your password</string>
+    <string name="new_st_page">This is new student page</string>
+    <string name="storehome">this is store home page</string>
+    <string name="teacheractivity" translatable="false" >this is teacherss activity</string>
+</resources>
